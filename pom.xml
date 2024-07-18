@@ -10,9 +10,9 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.javaexpress</groupId>
-	<artifactId>aws-cicd</artifactId>
+	<artifactId>aws-codebuild-ecr</artifactId>
 	<version>1.0.0</version>
-	<name>aws-cicd</name>
+	<name>aws-codebuild-ecr</name>
 	<description>Demo project for Spring Boot</description>
 	<url />
 	<licenses>
